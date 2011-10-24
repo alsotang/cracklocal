@@ -49,5 +49,5 @@ for i in range(NUM):
 #把JOBS排入队列
 for i in range(JOBS):
     q.put(i)
-#等待所有JOBS完成
+# 等待所有JOBS完成
 q.join()
