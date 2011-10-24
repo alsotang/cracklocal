@@ -1,0 +1,3 @@
+运行crack.py:
+    $ python crack.py
+然后按照提示输入*学号*与*生日*即可。
